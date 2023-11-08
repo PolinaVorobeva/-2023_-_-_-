@@ -6,6 +6,7 @@
 1. [pymorphy2](https://pypi.org/project/pymorphy3/)
 2. [pyenchant](https://pyenchant.github.io/pyenchant/install.html)
 
+Итоговую кластеризацию на обработанных текстовых данных можно найти в файлах: `kmeans_text_data.csv`, `kmeans_norm_data.csv`, `kmeans_unique_data.csv` 
 Приятного просмотра решения!
 
 Команда "Слон в банке"
